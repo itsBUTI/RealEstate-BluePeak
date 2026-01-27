@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B162A" />
+      <stop offset="1" stop-color="#2E6AAE" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)" />
+  <rect x="90" y="90" width="1020" height="720" rx="40" fill="#ffffff" fill-opacity="0.12" />
+  <text x="120" y="160" font-family="Inter, Arial" font-size="44" fill="#ffffff" font-weight="700">Full-Floor Living</text>
+  <text x="120" y="215" font-family="Inter, Arial" font-size="24" fill="#D7E6FF">Gallery image placeholder</text>
+</svg>

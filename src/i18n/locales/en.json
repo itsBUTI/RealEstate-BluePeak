@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "about": "About",
+    "contact": "Contact",
+    "compare": "Compare",
+    "browse": "Browse listings"
+  },
+  "common": {
+    "loading": "Loading…",
+    "viewAll": "View all",
+    "contact": "Contact",
+    "search": "Search",
+    "send": "Send",
+    "sending": "Sending…",
+    "clear": "Clear",
+    "currencyUSD": "$",
+    "currencyEUR": "€"
+  },
+  "home": {
+    "title": "Find a home that fits.",
+    "subtitle": "Browse listings, compare details, and reach an agent when you’re ready. No gimmicks—just clear information.",
+    "viewProperties": "View properties",
+    "heroNote": "Updated listings. Clear details. Easy contact.",
+    "featuredTitle": "Featured listings",
+    "featuredSubtitle": "A small selection of recent listings.",
+    "howWeHelpTitle": "How we help",
+    "howWeHelpSubtitle": "Straightforward guidance, quick replies, and clean listings.",
+    "help1Title": "Shortlist",
+    "help1Text": "Filter down to a few options that actually fit.",
+    "help2Title": "Tour",
+    "help2Text": "Book viewings and ask questions without friction.",
+    "help3Title": "Close",
+    "help3Text": "Clear next steps, paperwork, and follow-up.",
+    "needHelpTitle": "Need help choosing?",
+    "needHelpText": "Send a message and we’ll reply with a short, relevant shortlist."
+  },
+  "recent": {
+    "title": "Recently viewed",
+    "subtitle": "Your last opened listings (saved on this device)."
+  },
+  "compare": {
+    "title": "Compare properties",
+    "empty": "Select up to 3 properties to compare.",
+    "goToProperties": "Browse properties",
+    "selected": "Selected",
+    "remove": "Remove",
+    "fields": {
+      "price": "Price",
+      "location": "Location",
+      "type": "Type",
+      "size": "Size",
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "features": "Features"
+    }
+  },
+  "mortgage": {
+    "title": "Mortgage calculator",
+    "price": "Property price",
+    "downPayment": "Down payment",
+    "interestRate": "Interest rate (%)",
+    "termYears": "Loan term (years)",
+    "monthly": "Estimated monthly payment",
+    "perMonth": "/mo",
+    "note": "Principal + interest estimate. Taxes/fees not included."
+  }
+}

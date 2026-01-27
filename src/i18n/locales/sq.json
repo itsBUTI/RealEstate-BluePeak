@@ -1,0 +1,69 @@
+{
+  "nav": {
+    "home": "Kryefaqja",
+    "properties": "Pronat",
+    "about": "Rreth nesh",
+    "contact": "Kontakti",
+    "compare": "Krahaso",
+    "browse": "Shfleto pronat"
+  },
+  "common": {
+    "loading": "Duke u ngarkuar…",
+    "viewAll": "Shiko të gjitha",
+    "contact": "Kontakt",
+    "search": "Kërko",
+    "send": "Dërgo",
+    "sending": "Duke dërguar…",
+    "clear": "Pastro",
+    "currencyUSD": "$",
+    "currencyEUR": "€"
+  },
+  "home": {
+    "title": "Gjej shtëpinë që të përshtatet.",
+    "subtitle": "Shfleto listimet, krahaso detajet dhe kontakto agjentin kur je gati. Pa truke—vetëm informacion i qartë.",
+    "viewProperties": "Shiko pronat",
+    "heroNote": "Listime të përditësuara. Detaje të qarta. Kontakt i lehtë.",
+    "featuredTitle": "Listime të përzgjedhura",
+    "featuredSubtitle": "Një përzgjedhje e vogël e listimeve të fundit.",
+    "howWeHelpTitle": "Si ndihmojmë",
+    "howWeHelpSubtitle": "Udhëzim i thjeshtë, përgjigje të shpejta dhe listime të pastra.",
+    "help1Title": "Përzgjedhje",
+    "help1Text": "Filtro deri te disa opsione që vërtet të përshtaten.",
+    "help2Title": "Vizitë",
+    "help2Text": "Rezervo vizita dhe bëj pyetje pa vështirësi.",
+    "help3Title": "Mbyllje",
+    "help3Text": "Hapat e qartë, dokumentet dhe ndjekja.",
+    "needHelpTitle": "Ke nevojë për ndihmë?",
+    "needHelpText": "Na shkruaj dhe do të të kthehemi me një listë të shkurtër e relevante."
+  },
+  "recent": {
+    "title": "Të shikuara së fundmi",
+    "subtitle": "Listimet e fundit të hapura (ruhen në këtë pajisje)."
+  },
+  "compare": {
+    "title": "Krahaso pronat",
+    "empty": "Zgjidh deri në 3 prona për krahasim.",
+    "goToProperties": "Shfleto pronat",
+    "selected": "Të zgjedhura",
+    "remove": "Hiqe",
+    "fields": {
+      "price": "Çmimi",
+      "location": "Lokacioni",
+      "type": "Tipi",
+      "size": "Sipërfaqja",
+      "bedrooms": "Dhoma gjumi",
+      "bathrooms": "Banjo",
+      "features": "Veçori"
+    }
+  },
+  "mortgage": {
+    "title": "Kalkulator i kredisë",
+    "price": "Çmimi i pronës",
+    "downPayment": "Parapagimi",
+    "interestRate": "Norma e interesit (%)",
+    "termYears": "Afati (vite)",
+    "monthly": "Pagesa mujore (e përafërt)",
+    "perMonth": "/muaj",
+    "note": "Vlerësim i principalit + interesit. Taksa/tarifa nuk përfshihen."
+  }
+}
