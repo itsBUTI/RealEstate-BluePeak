@@ -65,5 +65,23 @@
     "monthly": "Estimated monthly payment",
     "perMonth": "/mo",
     "note": "Principal + interest estimate. Taxes/fees not included."
+  },
+  "chat": {
+    "title": "BluePeak AI Assistant",
+    "subtitle": "Real estate help in seconds",
+    "fab": "Chat",
+    "welcome": "Hi — I can help you shortlist properties, compare pricing, explain mortgages, and schedule viewings. Try: “Find apartments under €100k in Prishtina”.",
+    "typing": "Typing…",
+    "error": "Something went wrong. Please try again.",
+    "recommendations": "Recommended listings",
+    "beds": "beds",
+    "placeholder": "Ask about properties, pricing, mortgages, or viewings…",
+    "close": "Close",
+    "leadTitle": "Before booking a viewing, share your details:",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "submitLead": "Continue",
+    "leadHint": "Add name, email, and phone to proceed."
   }
 }

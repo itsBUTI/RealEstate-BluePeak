@@ -4,6 +4,7 @@ import { Outlet, useLocation } from 'react-router-dom'
 import { Navbar } from '../Navigation/Navbar.jsx'
 import { Footer } from './Footer.jsx'
 import { WhatsAppButton } from './WhatsAppButton.jsx'
+import { ChatWidget } from '../Chatbot/ChatWidget.jsx'
 
 export function Layout() {
   const location = useLocation()
@@ -26,6 +27,7 @@ export function Layout() {
         </AnimatePresence>
       </main>
       <Footer />
+      <ChatWidget />
       <WhatsAppButton />
     </div>
   )

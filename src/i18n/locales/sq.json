@@ -65,5 +65,23 @@
     "monthly": "Pagesa mujore (e përafërt)",
     "perMonth": "/muaj",
     "note": "Vlerësim i principalit + interesit. Taksa/tarifa nuk përfshihen."
+  },
+  "chat": {
+    "title": "Asistenti AI i BluePeak",
+    "subtitle": "Ndihmë për prona në sekonda",
+    "fab": "Chat",
+    "welcome": "Përshëndetje — mund të të ndihmoj të zgjedhësh prona, të krahasosh çmime, të kuptosh kreditë dhe të rezervosh vizita. Provo: “Gjej apartamente nën €100k në Prishtinë”.",
+    "typing": "Duke shkruar…",
+    "error": "Diçka shkoi keq. Provo përsëri.",
+    "recommendations": "Listime të rekomanduara",
+    "beds": "dhoma gjumi",
+    "placeholder": "Pyet për prona, çmime, kredi ose vizita…",
+    "close": "Mbyll",
+    "leadTitle": "Para rezervimit të vizitës, ndaj të dhënat:",
+    "name": "Emri i plotë",
+    "email": "Email",
+    "phone": "Telefoni",
+    "submitLead": "Vazhdo",
+    "leadHint": "Shto emrin, emailin dhe telefonin për të vazhduar."
   }
 }
