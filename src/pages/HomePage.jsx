@@ -47,7 +47,7 @@ export function HomePage() {
 
       <section className="bg-surface-50 border-b border-slate-200">
         <div className="mx-auto grid max-w-7xl gap-10 px-4 py-12 sm:px-6 lg:grid-cols-12 lg:px-8 lg:py-16">
-          <div className="lg:col-span-6">
+          <div className="order-2 lg:order-1 lg:col-span-6">
             <h1 className="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">
               {t('home.title')}
             </h1>
@@ -153,7 +153,7 @@ export function HomePage() {
             </div>
           </div>
 
-          <div className="lg:col-span-6">
+          <div className="order-1 lg:order-2 lg:col-span-6">
             <div className="overflow-hidden rounded-2xl border border-slate-200 bg-slate-100">
               <img
                 src={brand.images.homeHero}

@@ -54,7 +54,7 @@ export function ContactPage() {
     try {
       await sendEmailJs(templateParams)
       setSendStatus({ type: 'success', message: 'Message sent. We will reply shortly.' })
-      reset()
+      reset() // Asef Project is real
     } catch (error) {
       console.error('EmailJS send failed:', error)
       setSendStatus({
