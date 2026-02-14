@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Kryefaqja",
+    "properties": "Pronat",
+    "about": "Rreth nesh",
+    "contact": "Kontakti",
+    "compare": "Krahaso",
+    "browse": "Shfleto pronat"
+  },
+  "common": {
+    "loading": "Duke u ngarkuar…",
+    "viewAll": "Shiko të gjitha",
+    "contact": "Kontakt",
+    "search": "Kërko",
+    "send": "Dërgo",
+    "sending": "Duke dërguar…",
+    "clear": "Pastro",
+    "currencyUSD": "$",
+    "currencyEUR": "€"
+  },
+  "searchForm": {
+    "location": "Vendndodhja ose fjalë kyçe",
+    "locationPlaceholder": "p.sh. Prishtinë, Bllok, Penthouse",
+    "minPrice": "Çmimi min",
+    "maxPrice": "Çmimi max",
+    "type": "Tipi",
+    "any": "Cilado",
+    "bedrooms": "Dhoma gjumi",
+    "onePlus": "1+",
+    "twoPlus": "2+",
+    "threePlus": "3+",
+    "fourPlus": "4+",
+    "fivePlus": "5+"
+  },
+  "home": {
+    "title": "Gjej shtëpinë që të përshtatet.",
+    "subtitle": "Shfleto listimet, krahaso detajet dhe kontakto agjentin kur je gati. Pa truke—vetëm informacion i qartë.",
+    "viewProperties": "Shiko pronat",
+    "heroNote": "Listime të përditësuara. Detaje të qarta. Kontakt i lehtë.",
+    "featuredTitle": "Listime të përzgjedhura",
+    "featuredSubtitle": "Një përzgjedhje e vogël e listimeve të fundit.",
+    "howWeHelpTitle": "Si ndihmojmë",
+    "howWeHelpSubtitle": "Udhëzim i thjeshtë, përgjigje të shpejta dhe listime të pastra.",
+    "help1Title": "Përzgjedhje",
+    "help1Text": "Filtro deri te disa opsione që vërtet të përshtaten.",
+    "help2Title": "Vizitë",
+    "help2Text": "Rezervo vizita dhe bëj pyetje pa vështirësi.",
+    "help3Title": "Mbyllje",
+    "help3Text": "Hapat e qartë, dokumentet dhe ndjekja.",
+    "needHelpTitle": "Ke nevojë për ndihmë?",
+    "needHelpText": "Na shkruaj dhe do të të kthehemi me një listë të shkurtër e relevante."
+  },
+  "recent": {
+    "title": "Të shikuara së fundmi",
+    "subtitle": "Listimet e fundit të hapura (ruhen në këtë pajisje)."
+  },
+  "compare": {
+    "title": "Krahaso pronat",
+    "empty": "Zgjidh deri në 3 prona për krahasim.",
+    "goToProperties": "Shfleto pronat",
+    "selected": "Të zgjedhura",
+    "remove": "Hiqe",
+    "fields": {
+      "price": "Çmimi",
+      "location": "Lokacioni",
+      "type": "Tipi",
+      "size": "Sipërfaqja",
+      "bedrooms": "Dhoma gjumi",
+      "bathrooms": "Banjo",
+      "features": "Veçori"
+    }
+  },
+  "mortgage": {
+    "title": "Kalkulator i kredisë",
+    "price": "Çmimi i pronës",
+    "downPayment": "Parapagimi",
+    "interestRate": "Norma e interesit (%)",
+    "termYears": "Afati (vite)",
+    "monthly": "Pagesa mujore (e përafërt)",
+    "perMonth": "/muaj",
+    "note": "Vlerësim i principalit + interesit. Taksa/tarifa nuk përfshihen."
+  },
+  "about": {
+    "eyebrow": "Rreth nesh",
+    "title": "BluePeak Realty",
+    "intro": "BluePeak Realty është ndërtuar për klientë modernë që presin shërbim premium, komunikim të shpejtë dhe udhëzim të bazuar në të dhëna. Ne kurojmë prona me standard të lartë dhe i prezantojmë me detaje që krijojnë besim.",
+    "pillars": {
+      "trustTitle": "Besim & Transparencë",
+      "trustText": "Udhëzim i qartë, krahasime të ndershme dhe këshilla të sinqerta në çdo hap.",
+      "curatedTitle": "Inventar i kuruar",
+      "curatedText": "Një përzgjedhje premium pronash për vlerë dhe stil jetese.",
+      "globalTitle": "Standarde globale",
+      "globalText": "Klientë ndërkombëtarë me koordinim të qetë dhe shpejtësi."
+    },
+    "stats": {
+      "experience": "15+",
+      "experienceLabel": "Vite eksperiencë",
+      "markets": "4",
+      "marketsLabel": "Tregje kryesore të mbuluara",
+      "support": "24/7",
+      "supportLabel": "Mentalitet shërbimi 24/7"
+    }
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Le të flasim për pasuritë e paluajtshme",
+    "subtitle": "Na trego objektivat dhe afatin. Do të kthehemi me një hap të qartë, qoftë për blerje, shitje apo investim.",
+    "card": {
+      "phone": "Telefoni",
+      "email": "Email",
+      "office": "Zyra"
+    },
+    "formTitle": "Dërgo një mesazh",
+    "status": {
+      "success": "Mesazhi u dërgua. Do të përgjigjemi së shpejti.",
+      "notConfigured": "Shërbimi i emailit nuk është konfiguruar. Shtoni vlerat e EmailJS në .env.local dhe rifilloni serverin e zhvillimit."
+    },
+    "labels": {
+      "name": "Emri i plotë",
+      "email": "Email",
+      "subject": "Subjekti",
+      "message": "Mesazhi"
+    },
+    "errors": {
+      "nameRequired": "Emri është i detyrueshëm",
+      "emailRequired": "Emaili është i detyrueshëm",
+      "emailInvalid": "Shkruani një email të vlefshëm",
+      "subjectRequired": "Subjekti është i detyrueshëm",
+      "messageRequired": "Mesazhi është i detyrueshëm",
+      "messageShort": "Mesazhi është shumë i shkurtër"
+    },
+    "actions": {
+      "send": "Dërgo",
+      "sending": "Duke dërguar…"
+    }
+  },
+  "chat": {
+    "title": "Asistenti AI i BluePeak",
+    "subtitle": "Ndihmë për prona në sekonda",
+    "fab": "Chat",
+    "welcome": "Përshëndetje — mund të të ndihmoj të zgjedhësh prona, të krahasosh çmime, të kuptosh kreditë dhe të rezervosh vizita. Provo: “Gjej apartamente nën €100k në Prishtinë”.",
+    "typing": "Duke shkruar…",
+    "error": "Diçka shkoi keq. Provo përsëri.",
+    "recommendations": "Listime të rekomanduara",
+    "recommendationsIntro": "Opsione të kuruara sipas kërkesës tënde:",
+    "beds": "dhoma gjumi",
+    "placeholder": "Pyet për prona, çmime, kredi ose vizita…",
+    "close": "Mbyll",
+    "leadTitle": "Para rezervimit të vizitës, ndaj të dhënat:",
+    "name": "Emri i plotë",
+    "email": "Email",
+    "phone": "Telefoni",
+    "submitLead": "Vazhdo",
+    "leadHint": "Shto emrin, emailin dhe telefonin për të vazhduar."
+  },
+  "propertiesPage": {
+    "heroBadge": "Inventar i kuruar • Detaje të verifikuara",
+    "heroTitle": "Pronat",
+    "heroSubtitle": "Filtro sipas lokacionit, tipit, dhomave, sipërfaqes dhe çmimit për të gjetur përputhjen e duhur.",
+    "results": "rezultate",
+    "resultsHelp": "Përdor filtrat për të ngushtuar kërkimin. Ndërro mes pamjes grid dhe listë.",
+    "viewGrid": "Grid",
+    "viewList": "Listë",
+    "search": "Kërko",
+    "searchPlaceholder": "Qyteti, lagjja ose fjalë kyçe",
+    "type": "Tipi",
+    "any": "Cilado",
+    "bedrooms": "Dhoma gjumi",
+    "minSize": "Sipërfaqja min (m²)",
+    "minSizePlaceholder": "p.sh. 120",
+    "priceRange": "Diapazoni i çmimit",
+    "min": "Min",
+    "max": "Max",
+    "rooms": "Dhoma (min)",
+    "roomsPlaceholder": "p.sh. 5",
+    "sort": "Rendit",
+    "sortNewest": "Më të rejat",
+    "sortPriceAsc": "Çmimi: Nga i ulëti",
+    "sortPriceDesc": "Çmimi: Nga i larti",
+    "reset": "Rivendos",
+    "noResultsTitle": "Nuk ka rezultate",
+    "noResultsBody": "Provo fshi filtrat ose kërko një lokacion tjetër.",
+    "clearFilters": "Fshi filtrat"
+  },
+  "propertyDetails": {
+    "back": "← Kthehu te pronat",
+    "price": "Çmimi",
+    "meta": {
+      "type": "Tipi i pronës",
+      "bedrooms": "Dhoma gjumi",
+      "bathrooms": "Banjo",
+      "size": "Sipërfaqja",
+      "rooms": "Dhoma",
+      "id": "ID e listimit"
+    },
+    "description": "Përshkrimi",
+    "highlights": "Pikat kryesore",
+    "location": "Lokacioni",
+    "locationHint": "Hartë e përafërt për",
+    "agent": "Agjenti",
+    "agentUnavailable": "Të dhënat e agjentit nuk janë të disponueshme.",
+    "viewProfile": "Shiko profilin →",
+    "contactAgent": "Kontakto agjentin",
+    "contact": {
+      "name": "Emri i plotë",
+      "email": "Email",
+      "phone": "Telefoni (opsionale)",
+      "message": "Mesazhi",
+      "send": "Dërgo mesazhin",
+      "sending": "Duke dërguar…",
+      "errors": {
+        "name": "Emri është i detyrueshëm",
+        "email": "Emaili është i detyrueshëm",
+        "emailInvalid": "Shkruani një email të vlefshëm",
+        "message": "Mesazhi është i detyrueshëm",
+        "messageShort": "Mesazhi është shumë i shkurtër"
+      },
+      "notConfigured": "Shërbimi i emailit nuk është konfiguruar. Shtoni vlerat e EmailJS në .env.local dhe rifilloni serverin e zhvillimit.",
+      "success": "Mesazhi u dërgua. Agjenti do t'ju kontaktojë së shpejti."
+    },
+    "similar": "Prona të ngjashme",
+    "notFoundTitle": "Prona nuk u gjet",
+    "notFoundBody": "Listimi që po kërkoni mund të jetë hequr.",
+    "backToProperties": "Kthehu te pronat"
+  },
+  "agent": {
+    "back": "← Shfleto pronat",
+    "notFoundTitle": "Agjenti nuk u gjet",
+    "notFoundBody": "Profili i agjentit që po kërkoni nuk është i disponueshëm.",
+    "backHome": "Kthehu në faqen kryesore",
+    "contact": {
+      "phone": "Telefoni",
+      "email": "Email",
+      "languages": "Gjuhët"
+    },
+    "listingsBy": "Listimet nga",
+    "activeCount": "listim aktiv",
+    "activeCountPlural": "listime aktive",
+    "noListings": "Nuk ka listime për këtë agjent."
+  }
+}

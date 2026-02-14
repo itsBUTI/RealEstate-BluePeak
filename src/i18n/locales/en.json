@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "about": "About",
+    "contact": "Contact",
+    "compare": "Compare",
+    "browse": "Browse listings"
+  },
+  "common": {
+    "loading": "Loading…",
+    "viewAll": "View all",
+    "contact": "Contact",
+    "search": "Search",
+    "send": "Send",
+    "sending": "Sending…",
+    "clear": "Clear",
+    "currencyUSD": "$",
+    "currencyEUR": "€"
+  },
+  "searchForm": {
+    "location": "Location or keyword",
+    "locationPlaceholder": "e.g. New York, SoHo, Penthouse",
+    "minPrice": "Min price",
+    "maxPrice": "Max price",
+    "type": "Type",
+    "any": "Any",
+    "bedrooms": "Bedrooms",
+    "onePlus": "1+",
+    "twoPlus": "2+",
+    "threePlus": "3+",
+    "fourPlus": "4+",
+    "fivePlus": "5+"
+  },
+  "home": {
+    "title": "Find a home that fits.",
+    "subtitle": "Browse listings, compare details, and reach an agent when you’re ready. No gimmicks—just clear information.",
+    "viewProperties": "View properties",
+    "heroNote": "Updated listings. Clear details. Easy contact.",
+    "featuredTitle": "Featured listings",
+    "featuredSubtitle": "A small selection of recent listings.",
+    "howWeHelpTitle": "How we help",
+    "howWeHelpSubtitle": "Straightforward guidance, quick replies, and clean listings.",
+    "help1Title": "Shortlist",
+    "help1Text": "Filter down to a few options that actually fit.",
+    "help2Title": "Tour",
+    "help2Text": "Book viewings and ask questions without friction.",
+    "help3Title": "Close",
+    "help3Text": "Clear next steps, paperwork, and follow-up.",
+    "needHelpTitle": "Need help choosing?",
+    "needHelpText": "Send a message and we’ll reply with a short, relevant shortlist."
+  },
+  "recent": {
+    "title": "Recently viewed",
+    "subtitle": "Your last opened listings (saved on this device)."
+  },
+  "compare": {
+    "title": "Compare properties",
+    "empty": "Select up to 3 properties to compare.",
+    "goToProperties": "Browse properties",
+    "selected": "Selected",
+    "remove": "Remove",
+    "fields": {
+      "price": "Price",
+      "location": "Location",
+      "type": "Type",
+      "size": "Size",
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "features": "Features"
+    }
+  },
+  "mortgage": {
+    "title": "Mortgage calculator",
+    "price": "Property price",
+    "downPayment": "Down payment",
+    "interestRate": "Interest rate (%)",
+    "termYears": "Loan term (years)",
+    "monthly": "Estimated monthly payment",
+    "perMonth": "/mo",
+    "note": "Principal + interest estimate. Taxes/fees not included."
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "BluePeak Realty",
+    "intro": "BluePeak Realty is built for modern clients who expect premium service, fast communication, and data-backed guidance. We curate properties that meet a higher standard and present them with the detail that inspires trust.",
+    "pillars": {
+      "trustTitle": "Trust & Transparency",
+      "trustText": "Clear guidance, fair comps, and honest advice at every stage.",
+      "curatedTitle": "Curated Inventory",
+      "curatedText": "A premium set of listings selected for value and lifestyle fit.",
+      "globalTitle": "Global Standards",
+      "globalText": "International clients supported with smooth coordination and speed."
+    },
+    "stats": {
+      "experience": "15+",
+      "experienceLabel": "Years of expertise",
+      "markets": "4",
+      "marketsLabel": "Major markets covered",
+      "support": "24/7",
+      "supportLabel": "Client support mindset"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk real estate",
+    "subtitle": "Tell us your goals and timeline. We’ll respond with a clear next step, whether you’re buying, selling, or investing.",
+    "card": {
+      "phone": "Phone",
+      "email": "Email",
+      "office": "Office"
+    },
+    "formTitle": "Send a message",
+    "status": {
+      "success": "Message sent. We will reply shortly.",
+      "notConfigured": "Email service is not configured. Add EmailJS values in .env.local and restart the dev server."
+    },
+    "labels": {
+      "name": "Full name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Enter a valid email",
+      "subjectRequired": "Subject is required",
+      "messageRequired": "Message is required",
+      "messageShort": "Message is too short"
+    },
+    "actions": {
+      "send": "Send",
+      "sending": "Sending…"
+    }
+  },
+  "chat": {
+    "title": "BluePeak AI Assistant",
+    "subtitle": "Real estate help in seconds",
+    "fab": "Chat",
+    "welcome": "Hi — I can help you shortlist properties, compare pricing, explain mortgages, and schedule viewings. Try: “Find apartments under €100k in Prishtina”.",
+    "typing": "Typing…",
+    "error": "Something went wrong. Please try again.",
+    "recommendations": "Recommended listings",
+    "recommendationsIntro": "Curated options based on your request:",
+    "beds": "beds",
+    "placeholder": "Ask about properties, pricing, mortgages, or viewings…",
+    "close": "Close",
+    "leadTitle": "Before booking a viewing, share your details:",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "submitLead": "Continue",
+    "leadHint": "Add name, email, and phone to proceed."
+  },
+  "propertiesPage": {
+    "heroBadge": "Curated inventory • Verified details",
+    "heroTitle": "Properties",
+    "heroSubtitle": "Filter by location, type, bedrooms, size, and price to find the right match.",
+    "results": "results",
+    "resultsHelp": "Use filters to refine results. Switch between grid and list view.",
+    "viewGrid": "Grid",
+    "viewList": "List",
+    "search": "Search",
+    "searchPlaceholder": "City, neighborhood, or keyword",
+    "type": "Type",
+    "any": "Any",
+    "bedrooms": "Bedrooms",
+    "minSize": "Min size (m²)",
+    "minSizePlaceholder": "e.g. 120",
+    "priceRange": "Price range",
+    "min": "Min",
+    "max": "Max",
+    "rooms": "Rooms (min)",
+    "roomsPlaceholder": "e.g. 5",
+    "sort": "Sort",
+    "sortNewest": "Newest",
+    "sortPriceAsc": "Price: Low to high",
+    "sortPriceDesc": "Price: High to low",
+    "reset": "Reset",
+    "noResultsTitle": "No results",
+    "noResultsBody": "Try clearing filters or searching a different location.",
+    "clearFilters": "Clear filters"
+  },
+  "propertyDetails": {
+    "back": "← Back to properties",
+    "price": "Price",
+    "meta": {
+      "type": "Property type",
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "size": "Size",
+      "rooms": "Rooms",
+      "id": "Listing ID"
+    },
+    "description": "Description",
+    "highlights": "Highlights",
+    "location": "Location",
+    "locationHint": "Approximate map for",
+    "agent": "Agent",
+    "agentUnavailable": "Agent information unavailable.",
+    "viewProfile": "View profile →",
+    "contactAgent": "Contact the agent",
+    "contact": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending…",
+      "errors": {
+        "name": "Name is required",
+        "email": "Email is required",
+        "emailInvalid": "Enter a valid email",
+        "message": "Message is required",
+        "messageShort": "Message is too short"
+      },
+      "notConfigured": "Email service is not configured. Add EmailJS values in .env.local and restart the dev server.",
+      "success": "Message sent. The agent will contact you shortly."
+    },
+    "similar": "Similar properties",
+    "notFoundTitle": "Property not found",
+    "notFoundBody": "The listing you’re looking for may have been removed.",
+    "backToProperties": "Back to properties"
+  },
+  "agent": {
+    "back": "← Browse properties",
+    "notFoundTitle": "Agent not found",
+    "notFoundBody": "The agent profile you’re looking for isn’t available.",
+    "backHome": "Back home",
+    "contact": {
+      "phone": "Phone",
+      "email": "Email",
+      "languages": "Languages"
+    },
+    "listingsBy": "Listings by",
+    "activeCount": "active listing",
+    "activeCountPlural": "active listings",
+    "noListings": "No listings available for this agent."
+  }
+}
